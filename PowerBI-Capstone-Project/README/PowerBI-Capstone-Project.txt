@@ -1,0 +1,33 @@
+# Power BI Capstone Project 🎓📊
+
+## Project Overview
+This capstone project demonstrates end-to-end data analysis skills using Power BI, from data cleaning to advanced dashboard design.
+
+## Objective
+To showcase practical Power BI skills including data modeling, DAX calculations, and business-focused visualization.
+
+## Key Skills Demonstrated
+- Data Cleaning & Transformation
+- Star Schema Data Modeling
+- Advanced DAX Measures
+- Interactive Dashboards
+- Business Insight Generation
+
+## Dashboard Highlights
+- KPI-driven layout
+- Slicer-based interactivity
+- Insight-driven storytelling
+- Performance benchmarking
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel / CSV
+- GitHub
+
+## Outcome
+This project serves as a comprehensive demonstration of Power BI proficiency suitable for real-world business analytics roles.
+
+## Screenshots
+Added to the Files Section
